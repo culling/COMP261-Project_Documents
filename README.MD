@@ -41,7 +41,6 @@ Render 3d shapes as polygons loaded from a file. The goal of this assignment is 
 
 ## Search and Compression
 ![Screenshot from image](docs/SearchAndCompression-screenshot-01.png)
-![Screenshot from image](docs/SearchAndCompression-screenshot-02.png)
 ### Purpose
 + Implement the Knuth Morris Pratt algorithm and compare performance to the brute force/naive method. 
 + Implement Huffman and Lempel Ziv  compression
